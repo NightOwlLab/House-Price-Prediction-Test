@@ -1,0 +1,8 @@
+processData.py
+test.py
+dataset/
+ressult/
+model/
+__pycache__/
+*.pyc
+*.pyo
